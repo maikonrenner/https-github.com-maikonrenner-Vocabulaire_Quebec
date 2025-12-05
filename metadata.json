@@ -1,0 +1,7 @@
+{
+  "name": "Vocabulaire Québec",
+  "description": "Une application de flashcards interactive pour aider les élèves de 6e année à maîtriser leur vocabulaire français, avec synthèse vocale et aide par IA.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
